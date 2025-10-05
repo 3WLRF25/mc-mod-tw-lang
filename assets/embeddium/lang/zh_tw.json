@@ -1,0 +1,9 @@
+{
+  "embeddium.conflicting_mod": "Embeddium檢測到已安裝的模組中有些可能會導致渲染問題或崩潰，建議解除安裝它們。請參考以下列表。",
+  "embeddium.conflicting_mod_list": "[{2}]",
+  "embeddium.search_bar_empty": "搜尋選項⋯⋯",
+  "embeddium.options.added_by_mod_string": "由下列模組新增：%s",
+  "embeddium.options.fullscreen.resolution.tooltip": "控制全屏模式下游戲的解析度。",
+  "embeddium.options.use_quad_normals_for_lighting.name": "使用精確的四邊形著色器",
+  "embeddium.options.use_quad_normals_for_lighting.tooltip": "啟用後，Embeddium將根據非原版方塊面朝向的真實方向（而不是其軸對齊方向）對它們應用著色器。當禁用Forge實驗光源管線時，此選項可以提高光照質量（建議開啟以獲得最佳效能）。\n\n如果啟用了實驗光源管線，則此選項不起作用。"
+}

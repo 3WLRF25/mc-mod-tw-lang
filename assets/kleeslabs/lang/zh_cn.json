@@ -1,0 +1,9 @@
+{
+  "config.kleeslabs.title": "KleeSlabs",
+  "config.kleeslabs.mode": "模式",
+  "config.kleeslabs.mode.tooltip": "控制KleeSlabs的触发条件：ALWAYS（始终生效）/ONLY_WHEN_SNEAKING（仅在潜行时生效）/ONLY_WHEN_NOT_SNEAKING（仅在非潜行时生效）",
+  "config.kleeslabs.disabledCompat": "禁用兼容性",
+  "config.kleeslabs.disabledCompat.tooltip": "需要禁用兼容性的模组ID列表",
+  "config.kleeslabs.dumpSlabs": "调试输出台阶列表",
+  "config.kleeslabs.dumpSlabs.tooltip": "开发用途。设为true时，KleeSlabs会在世界加载时输出所有名称包含'slab'的物品列表"
+}

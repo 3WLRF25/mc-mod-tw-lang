@@ -1,0 +1,43 @@
+{
+  "oreexcavation.key.excavate": "連鎖挖礦",
+  "oreexcavation.key.shape_toggle": "形狀切換",
+  "oreexcavation.key.shape_edit": "形狀編輯",
+  "oreexcavation.key.shape_msg": "挖礦形狀：%s",
+  "oreexcavation.key.shape_disabled": "形狀挖礦已禁用！",
+
+  "oreexcavation.undo.success": "還原最後的連鎖挖礦……",
+  "oreexcavation.undo.failed.xp": "還原失敗：無法返還經驗",
+  "oreexcavation.undo.failed.items": "還原失敗：無法返還物品",
+  "oreexcavation.undo.failed.obstructed": "還原失敗：區域被阻塞",
+  "oreexcavation.undo.failed.no_history": "還原失敗：沒有可還原內容",
+  "oreexcavation.undo.failed.disabled": "還原已經被禁用！",
+
+  "oreexcavation.config.gui.mode": "啟用模式",
+  "oreexcavation.config.gui.outline": "顯示形狀輪廓",
+  "oreexcavation.config.gui.must_hold": "必須按住鍵",
+  "oreexcavation.config.gui.side_hit": "使用方塊側面點選",
+
+  "oreexcavation.config.gui.speed": "每刻方塊數：%s",
+  "oreexcavation.config.gui.limit": "方塊限制：%s",
+  "oreexcavation.config.gui.range": "挖礦範圍：%s",
+  "oreexcavation.config.gui.undos": "還原歷史：%s",
+
+  "oreexcavation.config.gui.exhaustion": "消耗：%s",
+  "oreexcavation.config.gui.experience": "經驗：%s",
+
+  "oreexcavation.config.gui.open_hand": "允許空手使用",
+  "oreexcavation.config.gui.auto_pickup": "自動拾取",
+  "oreexcavation.config.gui.ignore_tools": "忽略工具型別",
+  "oreexcavation.config.gui.alt_tools": "替代工具檢查",
+  "oreexcavation.config.gui.tool_class": "僅標準工具",
+  "oreexcavation.config.gui.allow_shapes": "形狀挖礦",
+  "oreexcavation.config.gui.tps_guard": "TPS保護",
+  "oreexcavation.config.gui.reload_json": "重新載入JSON檔案",
+  "oreexcavation.config.gui.open_folder": "開啟配置資料夾",
+  "oreexcavation.config.gui.undo_replace": "還原可替換物品",
+  "oreexcavation.config.gui.share_code": "分享程式碼",
+
+  "oreexcavation.config.gui.invert_tbl": "反轉工具黑名單",
+  "oreexcavation.config.gui.invert_bbl": "反轉方塊黑名單",
+  "oreexcavation.config.gui.patreon": "Patreon捐贈"
+}

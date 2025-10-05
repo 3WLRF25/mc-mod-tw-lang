@@ -1,0 +1,9 @@
+{
+  "config.kleeslabs.title": "KleeSlabs",
+  "config.kleeslabs.mode": "模式",
+  "config.kleeslabs.mode.tooltip": "控制KleeSlabs的觸發條件：ALWAYS（始終生效）/ONLY_WHEN_SNEAKING（僅在潛行時生效）/ONLY_WHEN_NOT_SNEAKING（僅在非潛行時生效）",
+  "config.kleeslabs.disabledCompat": "禁用相容性",
+  "config.kleeslabs.disabledCompat.tooltip": "需要禁用相容性的模組ID列表",
+  "config.kleeslabs.dumpSlabs": "除錯輸出半磚列表",
+  "config.kleeslabs.dumpSlabs.tooltip": "開發用途。設為true時，KleeSlabs會在世界載入時輸出所有名稱包含'slab'的物品列表"
+}

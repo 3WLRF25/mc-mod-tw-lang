@@ -1,0 +1,47 @@
+{
+  "config.ichunutil.cat.general.name": "通用设置",
+  "config.ichunutil.cat.general.desc": "这些是不属于其他类别的通用配置项。",
+  "config.ichunutil.cat.gameplay.name": "游戏玩法",
+  "config.ichunutil.cat.gameplay.desc": "这些配置会影响使用模组时的游戏体验。",
+  "config.ichunutil.cat.global.name": "全局设置",
+  "config.ichunutil.cat.global.desc": "这些配置会影响加载模组的服务器和客户端。",
+  "config.ichunutil.cat.serverOnly.name": "仅服务器",
+  "config.ichunutil.cat.serverOnly.desc": "这些配置仅影响加载模组的服务器。",
+  "config.ichunutil.cat.clientOnly.name": "仅客户端",
+  "config.ichunutil.cat.clientOnly.desc": "这些配置仅影响加载模组的客户端。",
+  "config.ichunutil.cat.block.name": "方块设置",
+  "config.ichunutil.cat.block.desc": "这些配置会影响模组中的方块。",
+
+  "config.ichunutil.cat.bns.name": "Boxes & Stuff （B&S）",
+  "config.ichunutil.cat.bns.desc": "这些配置会影响使用B&S的图形用户界面。",
+  "config.ichunutil.prop.bnsMinecraftStyle.name": "B&S 使用 Minecraft 风格",
+  "config.ichunutil.prop.bnsMinecraftStyle.desc": "以 Minecraft 风格渲染 B&S 的图形用户界面。\n0 = 默认风格\n1 = 原版风格\n2 = 材质包风格",
+  "config.ichunutil.prop.bnsDockPadding.name": "停靠边距",
+  "config.ichunutil.prop.bnsDockPadding.desc": "为停靠窗口添加的边距大小。",
+  "config.ichunutil.prop.bnsDockBorder.name": "停靠边框大小",
+  "config.ichunutil.prop.bnsDockBorder.desc": "判断窗口停靠的像素距离阈值。",
+  "config.ichunutil.prop.bnsDoubleClickSpeed.name": "双击速度",
+  "config.ichunutil.prop.bnsDoubleClickSpeed.desc": "识别双击操作的时间间隔（刻）。",
+  "config.ichunutil.prop.bnsTooltipCooldown.name": "提示延迟",
+  "config.ichunutil.prop.bnsTooltipCooldown.desc": "鼠标悬停多长时间（刻）后显示提示。",
+  "config.ichunutil.prop.bnsTheme.name": "主题",
+  "config.ichunutil.prop.bnsTheme.desc": "盒子与物品（B&S）使用的主题",
+
+  "gui.ichunutil.configs.title": "配置编辑器",
+  "gui.ichunutil.configs.configs": "配置项",
+  "gui.ichunutil.configs.needsRestart": "部分配置更改需要重启才能生效！",
+
+  "gui.ichunutil.configs.noEditingServerConfig": "只能在单人游戏环境中编辑服务器配置！",
+
+  "gui.ichunutil.element.textField": "文本框",
+
+  "window.popup.title": "警告！",
+
+  "window.saveAs.title": "另存为",
+  "window.saveAs.fileName": "文件名",
+  "window.saveAs.overwrite": "覆盖？",
+  "window.saveAs.confirmOverwrite": "文件已存在！确认覆盖？",
+  "window.saveAs.failed": "保存文件失败。",
+
+  "element.button.clear": "清除"
+}

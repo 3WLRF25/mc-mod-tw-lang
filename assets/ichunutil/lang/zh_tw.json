@@ -1,0 +1,47 @@
+{
+"config.ichunutil.cat.general.name": "通用設定",
+"config.ichunutil.cat.general.desc": "這些是不屬於其他類別的通用配置項。",
+"config.ichunutil.cat.gameplay.name": "遊戲玩法",
+"config.ichunutil.cat.gameplay.desc": "這些配置會影響使用模組時的遊戲體驗。",
+"config.ichunutil.cat.global.name": "全域性設定",
+"config.ichunutil.cat.global.desc": "這些配置會影響載入模組的伺服器和客戶端。",
+"config.ichunutil.cat.serverOnly.name": "僅伺服器",
+"config.ichunutil.cat.serverOnly.desc": "這些配置僅影響載入模組的伺服器。",
+"config.ichunutil.cat.clientOnly.name": "僅客戶端",
+"config.ichunutil.cat.clientOnly.desc": "這些配置僅影響載入模組的客戶端。",
+"config.ichunutil.cat.block.name": "方塊設定",
+"config.ichunutil.cat.block.desc": "這些配置會影響模組中的方塊。",
+
+"config.ichunutil.cat.bns.name": "Boxes & Stuff （B&S）",
+"config.ichunutil.cat.bns.desc": "這些配置會影響使用B&S的圖形使用者介面。",
+"config.ichunutil.prop.bnsMinecraftStyle.name": "B&S 使用 Minecraft 風格",
+"config.ichunutil.prop.bnsMinecraftStyle.desc": "以 Minecraft 風格渲染 B&S 的圖形使用者介面。\n0 = 預設風格\n1 = 原版風格\n2 = 材質包風格",
+"config.ichunutil.prop.bnsDockPadding.name": "停靠邊距",
+"config.ichunutil.prop.bnsDockPadding.desc": "為停靠視窗新增的邊距大小。",
+"config.ichunutil.prop.bnsDockBorder.name": "停靠邊框大小",
+"config.ichunutil.prop.bnsDockBorder.desc": "判斷視窗停靠的畫素距離閾值。",
+"config.ichunutil.prop.bnsDoubleClickSpeed.name": "雙擊速度",
+"config.ichunutil.prop.bnsDoubleClickSpeed.desc": "識別雙擊操作的時間間隔（刻）。",
+"config.ichunutil.prop.bnsTooltipCooldown.name": "提示延遲",
+"config.ichunutil.prop.bnsTooltipCooldown.desc": "滑鼠懸停多長時間（刻）後顯示提示。",
+"config.ichunutil.prop.bnsTheme.name": "主題",
+"config.ichunutil.prop.bnsTheme.desc": "盒子與物品（B&S）使用的主題",
+
+"gui.ichunutil.configs.title": "配置編輯器",
+"gui.ichunutil.configs.configs": "配置項",
+"gui.ichunutil.configs.needsRestart": "部分配置更改需要重啟才能生效！",
+
+"gui.ichunutil.configs.noEditingServerConfig": "只能在單人遊戲環境中編輯伺服器配置！",
+
+"gui.ichunutil.element.textField": "文字框",
+
+"window.popup.title": "警告！",
+
+"window.saveAs.title": "另存為",
+"window.saveAs.fileName": "檔名",
+"window.saveAs.overwrite": "覆蓋？",
+"window.saveAs.confirmOverwrite": "檔案已存在！確認覆蓋？",
+"window.saveAs.failed": "儲存檔案失敗。",
+
+"element.button.clear": "清除"
+}

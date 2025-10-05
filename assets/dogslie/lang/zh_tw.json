@@ -1,0 +1,14 @@
+{
+  "config.dogslie.prop.dogsSpawnLying.name": "狗狗生成時躺臥",
+  "config.dogslie.prop.dogsSpawnLying.desc": "如果狗狗已經處於坐姿狀態，生成到世界時是否會直接躺下。",
+  "config.dogslie.prop.timeBeforeLie.name": "躺下前等待時間",
+  "config.dogslie.prop.timeBeforeLie.desc": "狗狗坐下後等待多久(遊戲刻)才會躺下。",
+  "config.dogslie.prop.rangeBeforeGettingUp.name": "起身偵測範圍",
+  "config.dogslie.prop.rangeBeforeGettingUp.desc": "當目標進入多少格範圍內時狗狗會起身(單位：方塊)",
+  "config.dogslie.prop.getsUpFor.name": "為以下目標起身",
+  "config.dogslie.prop.getsUpFor.desc": "狗狗會為哪些目標起身？\n可選值：NOBODY（無）, OWNER（主人）, PLAYERS（玩家）, ANY_LIVING_ENTITY（任何生物實體）",
+  "config.dogslie.prop.playSoundWhenLieStateChanges.name": "狀態變化時播放音效",
+  "config.dogslie.prop.playSoundWhenLieStateChanges.desc": "當狗狗躺下或站起時是否播放叫聲/嗚咽聲？",
+  "config.dogslie.prop.enabledPoses.name": "啟用的躺臥姿勢",
+  "config.dogslie.prop.enabledPoses.desc": "可用的躺臥姿勢。如果模組找不到相容的姿勢，會隨機選擇一組預設姿勢。"
+}

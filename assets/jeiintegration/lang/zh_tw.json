@@ -1,0 +1,31 @@
+{
+  "_comment": "JEI Integration Language File",
+
+  "_comment": "Language Name: 繁體中文",
+  "_comment": "Language Region: 台灣",
+  "_comment": "Language Code: zh_tw",
+
+  "_comment": "Config",
+  "config.jeiintegration.tooltips.burnTimeTooltipMode": "燃燒時間提示",
+  "config.jeiintegration.tooltips.durabilityTooltipMode": "耐久度提示", 
+  "config.jeiintegration.tooltips.enchantabilityTooltipMode": "附魔能力提示",
+  "config.jeiintegration.tooltips.foodTooltipMode": "飢餓/飽食度提示",
+  "config.jeiintegration.tooltips.maxStackSizeTooltipMode": "最大堆疊數提示",
+  "config.jeiintegration.tooltips.nbtTooltipMode": "NBT資料提示",
+  "config.jeiintegration.tooltips.registryNameTooltipMode": "註冊名稱提示",
+  "config.jeiintegration.tooltips.tagsTooltipMode": "標籤提示",
+  "config.jeiintegration.tooltips.translationKeyTooltipMode": "翻譯鍵提示",
+
+  "_comment": "Tooltips",
+  "tooltip.jeiintegration.burnTime": "燃燒時間：",
+  "tooltip.jeiintegration.burnTime.suffix": "刻",
+  "tooltip.jeiintegration.durability": "耐久度：",
+  "tooltip.jeiintegration.enchantability": "附魔能力：",
+  "tooltip.jeiintegration.hunger": "飢餓值：",
+  "tooltip.jeiintegration.saturation": "飽食度：",
+  "tooltip.jeiintegration.maxStackSize": "最大堆疊：",
+  "tooltip.jeiintegration.nbtTagData": "NBT資料：",
+  "tooltip.jeiintegration.registryName": "ID：",
+  "tooltip.jeiintegration.tags": "標籤：",
+  "tooltip.jeiintegration.translationKey": "翻譯鍵："
+}
