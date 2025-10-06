@@ -25,7 +25,7 @@ Many systems and applications using "Traditional Chinese" don't specify the vari
 The Traditional Chinese localization of vanilla Minecraft impressed me with many stunning translations, like _狱髓_ (Netherite), _窳民_ (Illager), making the game a medium showcasing linguistic and cultural charm. As a heavy mod user, I wanted to try Traditional Chinese community mod localizations, only to find mainstream Traditional Chinese localizations stopped at versions 1.16.5 and 1.18.2. This sparked the idea of creating my own Traditional Chinese localizations. However, with relatively poor language skills (I'm a science student), I could only diligently reference achievements from vanilla Minecraft and community translations (sadly).
 
 ## Author's Note (Will anyone read this?)
-Given this is merely a project sharing my summer vacation outcome on GitHub, my update frequency will be very low afterward (possibly discontinuing). Of course, if you wish to contribute to improving this project or suggest mods for localization, **feel free to open an issue or discuss on the discussions page**. I'll review them when I have time (guilty.jpg)
+Given this is merely a project sharing my summer vacation result on GitHub, my update frequency will be very low afterward (possibly discontinuing). Of course, if you wish to contribute to improving this project or suggest mods for localization, **feel free to open an issue or discuss on the discussions page**. I'll review them when I have time (guilty.jpg)
 
 ----
 
