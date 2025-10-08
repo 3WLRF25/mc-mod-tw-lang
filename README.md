@@ -1,7 +1,7 @@
 # zh_CN+TW-Lang-Package-1.20.1
 **语言/Languages:**&emsp;[**简体中文**](README.md)｜[English](README-en.md)
 ## 简介
-一个轻量的模组翻译资源包，提供了**简体中文**\[zh_cn\]、**繁体中文**\[zh_tw\]（**侧重**）的翻译。由于本人学业在身，时间并不充裕，因此第一版仅仅为自己在玩的模组做了翻译。
+一个轻量的模组翻译资源包，提供了**简体中文**\(`zh_cn`\)、**繁体中文**\(`zh_tw`\)（**侧重**）的翻译。由于本人学业在身，时间并不充裕，因此第一版仅仅为自己在玩的模组做了翻译。
 ## Todo
 见[release简介](https://github.com/3WLRF25/mc-mod-tw-lang/releases/latest)
 ## 制作
