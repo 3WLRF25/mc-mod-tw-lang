@@ -1,7 +1,7 @@
 # zh_CN+TW-Lang-Package-1.20.1
 **Languages/语言:**&emsp;[简体中文](README.md)｜[**English**](README-en.md)
 ## Introduction
-A lightweight mod translation resource pack providing **Simplified Chinese**\(`zh_cn`\) and **Traditional Chinese**\(`zh_tw`\) translations (with **primary focus** on Traditional Chinese). Due to academic commitments, my time is limited, so the initial version only includes translations for mods I personally play.
+A lightweight mod translation resource pack providing **Simplified Chinese** \(`zh_cn`\) and **Traditional Chinese** \(`zh_tw`\) translations (with **primary focus** on Traditional Chinese). Due to academic commitments, my time is limited, so the initial version only includes translations for mods I personally play.
 
 ## Todo
 See [release notes](https://github.com/3WLRF25/mc-mod-tw-lang/releases/latest)
